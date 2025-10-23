@@ -1,0 +1,6 @@
+************* Module test
+test.py:242:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.90/10 (previous run: 0.61/10, +9.29)
+
